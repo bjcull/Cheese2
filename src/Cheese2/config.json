@@ -1,0 +1,11 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Cheese2",
+    "ConsumerKey": "1234kjgkjshdf"
+  },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Cheese2-7cede3b8-65b7-4236-baa0-e2fc19e3fc1a;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }    
+}
